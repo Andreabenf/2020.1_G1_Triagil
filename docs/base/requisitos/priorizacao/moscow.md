@@ -20,17 +20,16 @@ MoSCoW é um acrônimo para as 4 (quatro) categorias de requisitos utilizados na
 
 Na tabela abaixo, estão ordenados os requisitos elicitados nos documentos [Brainstorming](2020.1_G1_Triagil\docs\base\requisitos\elicitacao\brainstorming.md), [Entrevista](2020.1_G1_Triagil\docs\base\requisitos\elicitacao\entrevista.md), [Questionário](2020.1_G1_Triagil\docs\base\requisitos\elicitacao\questionario.md) e [Storyboard](2020.1_G1_Triagil\docs\base\requisitos\elicitacao\storyboard.md).
 
-
 ## Requisitos Funcionais
 
 |Requisitos|Origem|Descrição|Classificação MoSCoW|
 |:--------:|:-------:|:------------------:|:-----|
-|RF01   |[BS01](brainstorming.md#bs01) |O enfermeiro deve visualizar a lista de pacientes "normal" e "preferencial" |MUST|
-|RF02   |BS02|O enfermeiro deve realizar seu cadastro com a chave de acesso do hospital|MUST|
-|RF03   |BS04, Q13|O enfermeiro deve ter acesso ao dados de todos os pacientes|MUST|
-|RF04   |BS06, SB07|A enfermeira deve ter a opção de alterar ou confirmar a classificação do paciente feita por ela|MUST|
-|RF05   |BS08|O enfermeiro deve poder corrigir a classificação do paciente em apenas 1 nível abaixo ou acima da análise que ele fez previamente|MUST|
-|RF06   |BS09, Q03|O enfermeiro deve cadastrar novos pacientes|MUST|
+|RF01   |[BS01](https://unbarqdsw.github.io/2020.1_G1_Triagil/base/requisitos/elicitacao/brainstorming/#requisitos-elicitados) |O enfermeiro deve visualizar a lista de pacientes "normal" e "preferencial" |MUST|
+|RF02   |[BS02](https://unbarqdsw.github.io/2020.1_G1_Triagil/base/requisitos/elicitacao/brainstorming/#requisitos-elicitados)|O enfermeiro deve realizar seu cadastro com a chave de acesso do hospital|MUST|
+|RF03   |[BS04](https://unbarqdsw.github.io/2020.1_G1_Triagil/base/requisitos/elicitacao/brainstorming/#requisitos-elicitados), Q13|O enfermeiro deve ter acesso ao dados de todos os pacientes|MUST|
+|RF04   |[BS06](https://unbarqdsw.github.io/2020.1_G1_Triagil/base/requisitos/elicitacao/brainstorming/#requisitos-elicitados), SB07|A enfermeira deve ter a opção de alterar ou confirmar a classificação do paciente feita por ela|MUST|
+|RF05   |[BS08](https://unbarqdsw.github.io/2020.1_G1_Triagil/base/requisitos/elicitacao/brainstorming/#requisitos-elicitados)|O enfermeiro deve poder corrigir a classificação do paciente em apenas 1 nível abaixo ou acima da análise que ele fez previamente|MUST|
+|RF06   |[BS09](https://unbarqdsw.github.io/2020.1_G1_Triagil/base/requisitos/elicitacao/brainstorming/#requisitos-elicitados), Q03|O enfermeiro deve cadastrar novos pacientes|MUST|
 |RF07   |BS13|O enfermeiro tem acesso à parte de priorização da triagem|MUST|
 |RF08   |BS20, Q04, SB01|O paciente pode se cadastrar no aplicativo a qualquer momento|MUST|
 |RF09   |BS21|O login do paciente para entrar na fila do hospital só pode ser feito ao entrar na rede de hospital|MUST|
